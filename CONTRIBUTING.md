@@ -7,3 +7,4 @@
 - Another ShadowRocket config: https://github.com/YanbingJiang/Shadowrocket_diy_rules
 - Jailbreak không cần PC: https://jailbreaks.app/
 - Bypass iCl miễn phí cần Jailbreak 1 lần: https://haafedkgsm.com/
+- Lấy IPA đã hack: https://ipa.cypwn.xyz/
